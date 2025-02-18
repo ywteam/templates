@@ -1,3 +1,6 @@
 [submodule "repository"]
 	path = repository
 	url = https://github.com/ywteam/template.repository
+[submodule "dotfiles"]
+	path = dotfiles
+	url = https://github.com/ywteam/template.dotfiles
